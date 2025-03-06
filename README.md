@@ -1,6 +1,7 @@
 ## About Me
 
-Data processing specialist focused on developing custom libraries, plugins, and optimized solutions. Committed to creating efficient and scalable systems.
+Junior/Mid-level C# Developer focused on data processing, developing libraries, plugins, and optimized solutions. Committed to efficient and scalable systems.
+
 
 ## Core Technologies
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
