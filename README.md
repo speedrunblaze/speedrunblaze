@@ -1,6 +1,6 @@
 ## About Me
 
-![ICON](https://speedrunblaze.neocities.org/1741568578377.png)
+![ICON](https://speedrunblaze.neocities.org/9abfb928fa83dad99ea058a31fbe09cb.jpg)
 Junior/Mid-level Developer.
 
 
