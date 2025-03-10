@@ -1,14 +1,14 @@
 ## About Me
 
-Junior/Mid-level C# Developer.
+![ICON](https://speedrunblaze.neocities.org/1741568578377.png)
+Junior/Mid-level Developer.
 
 
 ## Core Technologies
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ## AI & Machine Learning Tools
 
@@ -17,9 +17,9 @@ Junior/Mid-level C# Developer.
 ![Claude AI](https://img.shields.io/badge/Claude_AI-3E5E8A?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Currently Learning
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ## Contact
 
