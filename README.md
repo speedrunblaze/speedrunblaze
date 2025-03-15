@@ -1,4 +1,5 @@
-![ICONPROF](https://raw.githubusercontent.com/speedrunblaze/speedrunblaze/refs/heads/main/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif)
+## Blaze 🎸
+![ICONPROF](https://www.icegif.com/wp-content/uploads/2022/10/icegif-400.gif)
 
 ## About Me
 
