@@ -1,8 +1,6 @@
 ## About Me
 
-![ICON](https://speedrunblaze.neocities.org/9abfb928fa83dad99ea058a31fbe09cb.jpg)
-Junior/Mid-level Developer.
-
+![ICON](https://raw.githubusercontent.com/speedrunblaze/speedrunblaze/refs/heads/main/60553863-044dd200-9cea-11e9-987e-7db84449f215.png)
 
 ## Core Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
