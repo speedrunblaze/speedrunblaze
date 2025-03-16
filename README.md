@@ -21,7 +21,6 @@
 ![tech](https://raw.githubusercontent.com/speedrunblaze/speedrunblaze/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 
 ## Currently Learning
-![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 
